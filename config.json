@@ -1,0 +1,12 @@
+{
+  "main_token": "", // bot main token
+  "mongodb_url": "", //mongo db URL
+  "alexflipnoteApiKey":"", //get from https://discord.gg/bsUDZqUbyz
+  "developers": ["", ""], //developers ID
+  "datadogApiKey": "", // for statistics (optional)
+  "dashboard":"false", 
+  "prefix":"p!", //prefix
+  "arc":"",//arc.io source (optional)
+  "youtube_key":"", //youtube api key from https://console.cloud.google.com/apis/
+  "cat_api_key":"", // https://thecatapi.com/signup
+}
